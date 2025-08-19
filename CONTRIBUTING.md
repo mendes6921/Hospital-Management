@@ -12,3 +12,4 @@ Notes and usage details for Hospital-Management.
 - link the usage section
 - fix a small wording issue
 - add a note about the defaults
+- link the usage section
